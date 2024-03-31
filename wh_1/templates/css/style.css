@@ -1,0 +1,16 @@
+*{
+    text-decoration: none;
+    margin: 0;
+    bottom: 0;
+}
+
+body{
+    display: flex;
+}
+
+
+
+.footer{
+    background-color: grey;
+    
+}
